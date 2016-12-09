@@ -1,0 +1,7 @@
+name: Hub
+version: 1.0
+main: net.hub.main.Main
+author: Snickzz
+commands:
+  spawn:
+    description: Teleport to the spawn location!
